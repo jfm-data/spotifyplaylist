@@ -9,4 +9,5 @@ numpy==1.19.2
 pandasql==0.7.3
 scikit_learn==1.0.2
 scipy==1.5.2
-spotipy==2.0.0
+spotipy==2.18.0
+
